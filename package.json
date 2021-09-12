@@ -1,0 +1,31 @@
+{
+    "name": "discordsionbot",
+    "version": "0.0.1 beta",
+    "description": "sion chatbot runs with discord",
+    "main": "dd.js",
+    "dependencies": {
+      "axios": "^0.19.2",
+      "discord.js": "^12.0.1",
+      "mathjs": "^6.6.4",
+      "node-fetch": "^2.6.0",
+      "ytdl-core": "^2.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ig07091/1234.bot/tree/main"
+    },
+    "keywords": [
+      "discord",
+      "javascript",
+      "nodejs"
+    ],
+    "author": "sion",
+    "bugs": {
+      "url": "https://github.com/ig07091/1234.bot/tree/main"
+    },
+    "homepage": "https://github.com/ig07091/1234.bot/tree/main"
+  }
